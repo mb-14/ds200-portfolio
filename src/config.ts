@@ -10,7 +10,7 @@ export const siteConfig = {
     gscholar: "https://scholar.google.co.in/citations?user=lN6RKC4AAAAJ&hl=en"
   },
   aboutMe:
-    "I am a PhD student at the Indian Institute of Science, Bangalore in the NLP lab in the Department of Computational and Data Sciences. My research interests include large language model understanding, interpretability, and evaluation. Prior to this, I worked for ~6 years as a software engineer across fintech and payments, building scalable data platforms, backend services, and mobile/web applications.",
+    "I’m a PhD student at IISc Bangalore, working in the NLP Lab in the Department of Computational and Data Sciences. My research interests include large language model understanding, interpretability, and evaluation. Prior to this, I worked for ~6 years as a software engineer across fintech and payments, building scalable data platforms, backend services, and mobile/web applications.",
   skills: [
     "Python",
     "transformers",
