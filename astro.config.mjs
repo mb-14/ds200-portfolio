@@ -7,4 +7,8 @@ export default defineConfig({
   vite: {
     plugins: [tailwindcss()],
   },
+  site: 'https://mb-14.github.io',
+  base: '/ds200-portfolio',
 });
+
+
